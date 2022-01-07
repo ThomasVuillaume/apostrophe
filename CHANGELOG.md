@@ -1,5 +1,11 @@
 # Changelog
 
+## UNRELEASED
+
+### Fixes
+
+* Bumps `vue-loader` to v17.x. Apostrophe usage is not impacted by the breaking changes from v15.
+
 ## 3.11.0 - 2022-01-06
 
 ### Adds
